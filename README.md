@@ -49,8 +49,8 @@ I am a Computer Engineering student with a deep curiosity for Data Science and A
 
 ![Dil1](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=[Logo_Adı]&logoColor=white)
 ![Dil2](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=[Logo_Adı]&logoColor=white)
-![Araç1](https://img.shields.io/badge/Docker-(Dockerfile,-CLI)-000000?style=for-the-badge&logo=[Logo_Adı]&logoColor=white)
-![Bulut](https://img.shields.io/badge/Azure(ACR,-ACI,-ML-Studio)-000000?style=for-the-badge&logo=[Logo_Adı]&logoColor=white)
+![Araç1](https://img.shields.io/badge/Docker(Dockerfile,&CLI)-000000?style=for-the-badge&logo=[Logo_Adı]&logoColor=white)
+![Bulut](https://img.shields.io/badge/Azure(ACR,&ACI,&ML&Studio)-000000?style=for-the-badge&logo=[Logo_Adı]&logoColor=white)
 
 </div>
 
