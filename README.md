@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Hi,%20I%20am%20Nesibe&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20Student&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Hi,%20I%20am%20Nesibe&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Student%20@%20Bilgi%20University&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=[1.+Uzmanlık+Alanı];[2.+Uzmanlık+Alanı];[Öğrenilen+Teknolojiler...]" alt="Typing SVG" /></a>
@@ -6,7 +6,7 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
-## :technologist: &nbsp;About me
+## :technologist: &nbsp;About Me
 
 I am a Computer Engineering student with a deep curiosity for Data Science and Artificial Intelligence. While building my foundational engineering skills at university, I actively pursue external courses and specialized training to dive deeper into data analysis and predictive modeling.
 
@@ -27,9 +27,8 @@ I am a Computer Engineering student with a deep curiosity for Data Science and A
     <td width="50%" valign="top">
       <h4>:mortar_board: Education </h4>
       <ul>
-        <li><strong>[Okul/Bölüm Adı]</strong> — 2024-...]</li>
+        <li><strong>B.Sc. Computer Engineering, Bilgi University</strong> — 2024-...]</li>
         <li><strong>Data Science and AI Consultant Program — Europe Coding School</li>
-        <li><strong>D</strong> — [Kısa Not]</li>
       </ul>
     </td>
   </tr>
@@ -37,14 +36,14 @@ I am a Computer Engineering student with a deep curiosity for Data Science and A
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
-## :wrench: &nbsp;İlgi Alanları
+## :wrench: &nbsp;Fields of Interest
 
 <div align="center">
 
-![Alan1](https://img.shields.io/badge/AI-4285F4?style=for-the-badge)
-![Alan2](https://img.shields.io/badge/Data-Science-6366F1?style=for-the-badge)
-![Alan3](https://img.shields.io/badge/[İlgi_Alanı_3]-F7931E?style=for-the-badge)
-![Alan4](https://img.shields.io/badge/[İlgi_Alanı_4]-5C3EE8?style=for-the-badge)
+![Alan1](https://img.shields.io/badge/AI-&-ML-4285F4?style=for-the-badge)
+![Alan2](https://img.shields.io/badge/Data-Science-&-Analytics-6366F1?style=for-the-badge)
+![Alan3](https://img.shields.io/badge/Cloud-Computing-&-DevOps:-F7931E?style=for-the-badge)
+![Alan4](https://img.shields.io/badge/Algorithmic-Problem-Solving-5C3EE8?style=for-the-badge)
 
 </div>
 
@@ -54,8 +53,8 @@ I am a Computer Engineering student with a deep curiosity for Data Science and A
 
 ![Dil1](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=[Logo_Adı]&logoColor=white)
 ![Dil2](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=[Logo_Adı]&logoColor=white)
-![Araç1](https://img.shields.io/badge/[Araç_1]-000000?style=for-the-badge&logo=[Logo_Adı]&logoColor=white)
-![Bulut](https://img.shields.io/badge/Azure(ACR-ACI-ML_Studio)-000000?style=for-the-badge&logo=[Logo_Adı]&logoColor=white)
+![Araç1](https://img.shields.io/badge/Docker-(Dockerfile,-CLI)-000000?style=for-the-badge&logo=[Logo_Adı]&logoColor=white)
+![Bulut](https://img.shields.io/badge/Azure(ACR,-ACI,-ML-Studio)-000000?style=for-the-badge&logo=[Logo_Adı]&logoColor=white)
 
 </div>
 
