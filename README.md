@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Student at Bilgi University&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=[Unvanınız%20veya%20Sloganınız]&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Hi,%20I%20am%20Nesibe&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20Student&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=[1.+Uzmanlık+Alanı];[2.+Uzmanlık+Alanı];[Öğrenilen+Teknolojiler...]" alt="Typing SVG" /></a>
