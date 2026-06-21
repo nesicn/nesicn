@@ -27,7 +27,7 @@ I am a Computer Engineering student with a deep curiosity for Data Science and A
     <td width="50%" valign="top">
       <h4>:mortar_board: Education </h4>
       <ul>
-        <li><strong>B.Sc. Computer Engineering, Bilgi University</strong> — 2024-...]</li>
+        <li><strong>B.Sc. Computer Engineering, Bilgi University</li>
         <li><strong>Data Science and AI Consultant Program — Europe Coding School</li>
       </ul>
     </td>
