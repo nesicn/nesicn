@@ -49,8 +49,8 @@ I am a Computer Engineering student with a deep curiosity for Data Science and A
 
 ![Dil1](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dil2](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![Araç1](https://img.shields.io/badge/Docker_%28Dockerfile%2C_CLI%29-000000?style=for-the-badge&logo=docker&logoColor=white)
-![Bulut](https://img.shields.io/badge/Azure_%28ACR%2C_ACI%2C_ML_Studio%29-000000?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Araç1](https://img.shields.io/badge/Docker%20%28Dockerfile%2C%20CLI%29-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Bulut](https://img.shields.io/badge/Azure%20%28ACR%2C%20ACI%2C%20ML%20Studio%29-000000?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 </div>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
@@ -64,10 +64,4 @@ I am a Computer Engineering student with a deep curiosity for Data Science and A
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
 
-<p align="center">
-  <a href="mailto:[E-POSTA_ADRESİNİZ]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  
-  <a href="https://linkedin.com/in/[LİNKEDİN_KULLANICI_ADINIZ]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  
-  <a href="https://Nesicn.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-</p>
+<p align="center"><a href="mailto:username@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://linkedin.com/in/username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://Nesicn.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a></p>
