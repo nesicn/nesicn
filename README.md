@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Hi,%20I%20am%20Nesibe&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Student%20@%20Bilgi%20University&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=[1.+Uzmanlık+Alanı];[2.+Uzmanlık+Alanı];[Öğrenilen+Teknolojiler...]" alt="Typing SVG" /></a>
-</p>
-
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 ## :technologist: &nbsp;About Me
@@ -12,12 +8,12 @@ I am a Computer Engineering student with a deep curiosity for Data Science and A
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
-## :rocket: &nbsp;  Deneyimler
+## :rocket: &nbsp; Education
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>:bulb: Öne Çıkan Projeler</h4>
+      <h4>:bulb: Projects </h4>
       <ul>
         <li><strong>[Proje 1]</strong> — [Proje hakkında kısa açıklama]</li>
         <li><strong>[Proje 2]</strong> — [Proje hakkında kısa açıklama]</li>
