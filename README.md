@@ -36,10 +36,10 @@ I am a Computer Engineering student with a deep curiosity for Data Science and A
 
 <div align="center">
 
-![Alan1](https://img.shields.io/badge/AI-&-ML-4285F4?style=for-the-badge)
-![Alan2](https://img.shields.io/badge/Data-Science-&-Analytics-6366F1?style=for-the-badge)
-![Alan3](https://img.shields.io/badge/Cloud-Computing-&-DevOps:-F7931E?style=for-the-badge)
-![Alan4](https://img.shields.io/badge/Algorithmic-Problem-Solving-5C3EE8?style=for-the-badge)
+![Alan1](https://img.shields.io/badge/AI_%26_ML-4285F4?style=for-the-badge)
+![Alan2](https://img.shields.io/badge/Data_Science_%26_Analytics-6366F1?style=for-the-badge)
+![Alan3](https://img.shields.io/badge/Cloud_Computing_%26_DevOps-F7931E?style=for-the-badge)
+![Alan4](https://img.shields.io/badge/Algorithmic_Problem_Solving-5C3EE8?style=for-the-badge)
 
 </div>
 
@@ -47,11 +47,10 @@ I am a Computer Engineering student with a deep curiosity for Data Science and A
 
 <div align="center">
 
-![Dil1](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=[Logo_Adı]&logoColor=white)
-![Dil2](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=[Logo_Adı]&logoColor=white)
-![Araç1](https://img.shields.io/badge/Docker(Dockerfile,&CLI)-000000?style=for-the-badge&logo=[Logo_Adı]&logoColor=white)
-![Bulut](https://img.shields.io/badge/Azure(ACR,&ACI,&ML&Studio)-000000?style=for-the-badge&logo=[Logo_Adı]&logoColor=white)
-
+![Dil1](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dil2](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Araç1](https://img.shields.io/badge/Docker_%28Dockerfile%2C_CLI%29-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Bulut](https://img.shields.io/badge/Azure_%28ACR%2C_ACI%2C_ML_Studio%29-000000?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 </div>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
@@ -67,4 +66,8 @@ I am a Computer Engineering student with a deep curiosity for Data Science and A
 
 <p align="center">
   <a href="mailto:[E-POSTA_ADRESİNİZ]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  
+  <a href="https://linkedin.com/in/[LİNKEDİN_KULLANICI_ADINIZ]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  
+  <a href="https://Nesicn.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
 </p>
