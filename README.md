@@ -15,9 +15,8 @@ I am a Computer Engineering student with a deep curiosity for Data Science and A
     <td width="50%" valign="top">
       <h4>:bulb: Projects </h4>
       <ul>
-        <li><strong>[Proje 1]</strong> — [Proje hakkında kısa açıklama]</li>
-        <li><strong>[Proje 2]</strong> — [Proje hakkında kısa açıklama]</li>
-        <li><strong>[Proje 3]</strong> — [Proje hakkında kısa açıklama]</li>
+        <li><strong>Advanced Hashing Optimization & Empirical Benchmark Framework</strong></li>
+        <li><strong>Medical Insurance Predictive Modeling</strong></li>
       </ul>
     </td>
     <td width="50%" valign="top">
