@@ -4,8 +4,7 @@
 
 ## :technologist: &nbsp;About Me
 
-I am a Computer Engineering student with a deep curiosity for Data Science and Artificial Intelligence. While building my foundational engineering skills at university, I actively pursue external courses and specialized training to dive deeper into data analysis and predictive modeling.
-
+n
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 ## :rocket: &nbsp; Education
@@ -16,7 +15,7 @@ I am a Computer Engineering student with a deep curiosity for Data Science and A
       <h4>:bulb: Projects </h4>
       <ul>
         <li><strong>Advanced Hashing Optimization & Empirical Benchmark Framework</strong></li>
-        <li><strong>Medical Insurance Predictive Modeling</strong></li>
+        <li><strong>n</strong></li>
       </ul>
     </td>
     <td width="50%" valign="top">
