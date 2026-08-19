@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Hi,%20I%20am%20Nesibe&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Student%20@%20Bilgi%20University&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Hi,%20I%20am%20Nesibe&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Student%20&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
@@ -21,8 +21,8 @@ n
     <td width="50%" valign="top">
       <h4>:mortar_board: Education </h4>
       <ul>
-        <li><strong>B.Sc. Computer Engineering, Bilgi University</li>
-        <li><strong>Data Science and AI Consultant Program — Europe Coding School</li>
+        <li><strong>B.Sc. Computer Engineering</li>
+        <li><strong>Data Science and AI Consultant Program</li>
       </ul>
     </td>
   </tr>
