@@ -60,6 +60,13 @@ n
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nesicn&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="170" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nesicn&style=for-the-badge&color=4285F4&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
 
-<p align="center"><a href="mailto:username@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://linkedin.com/in/username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a</p>
+<p align="center">
+  <a href="mailto:username@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> 
+  <a href="https://linkedin.com/in/username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
