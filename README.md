@@ -21,8 +21,8 @@ n
     <td width="50%" valign="top">
       <h4>:mortar_board: Education </h4>
       <ul>
-        <li><strong>B.Sc. Computer Engineering</li>
-        <li><strong>Data Science and AI Consultant Program</li>
+        <li><strong>B.Sc. Computer Engineering</strong></li>
+        <li><strong>Data Science and AI Consultant Program</strong></li>
       </ul>
     </td>
   </tr>
@@ -49,6 +49,7 @@ n
 ![Dil2](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Araç1](https://img.shields.io/badge/Docker%20%28Dockerfile%2C%20CLI%29-000000?style=for-the-badge&logo=docker&logoColor=white)
 ![Bulut](https://img.shields.io/badge/Azure%20%28ACR%2C%20ACI%2C%20ML%20Studio%29-000000?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
 </div>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
@@ -60,13 +61,15 @@ n
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nesicn&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="170" />
 </div>
 
+<br />
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nesicn&style=for-the-badge&color=4285F4&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nesicn&style=flat-square&color=7aa2f7&label=Profile%20Views" alt="Profile Views" />
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
 
 <p align="center">
-  <a href="mailto:username@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> 
+  <a href="mailto:username@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
