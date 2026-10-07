@@ -47,8 +47,8 @@ n
 
 ![Dil1](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dil2](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![Araç1](https://img.shields.io/badge/Docker%20%28Dockerfile%2C%20CLI%29-000000?style=for-the-badge&logo=docker&logoColor=white)
-![Bulut](https://img.shields.io/badge/Azure%20%28ACR%2C%20ACI%2C%20ML%20Studio%29-000000?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Araç1](https://img.shields.io/badge/Docker%20%28Dockerfile%2C%20%29-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Bulut](https://img.shields.io/badge/%20%28A%C%20%2C%20%20%29-000000?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 </div>
 
